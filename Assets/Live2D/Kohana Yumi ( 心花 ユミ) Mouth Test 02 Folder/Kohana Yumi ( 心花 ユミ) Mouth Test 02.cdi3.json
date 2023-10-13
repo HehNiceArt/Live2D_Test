@@ -1,0 +1,1297 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "‎"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeLForm",
+			"GroupId": "ParamGroup2",
+			"Name": "Eye L Deformation"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeRForm",
+			"GroupId": "ParamGroup2",
+			"Name": "Eye R Deformation"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup3",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup3",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamEyeBallForm",
+			"GroupId": "ParamGroup3",
+			"Name": "Eyeball Shrink"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowL X"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowL Deformation"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "‎"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamTongueOut",
+			"GroupId": "ParamGroup5",
+			"Name": "Tongue Out"
+		},
+		{
+			"Id": "MouthFunnel",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth Funnel"
+		},
+		{
+			"Id": "MouthPressLipOpen",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth Press Lip Open"
+		},
+		{
+			"Id": "MouthPuckerWiden",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth Pucker Widen"
+		},
+		{
+			"Id": "MouthShrug",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth Shrug"
+		},
+		{
+			"Id": "MouthX",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth X"
+		},
+		{
+			"Id": "JawOpen",
+			"GroupId": "ParamGroup5",
+			"Name": "Jaw Open"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "‎"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup6",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup6",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup6",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup6",
+			"Name": "Breath"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "‎"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup9",
+			"Name": "Hair Move Front"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup9",
+			"Name": "Hair Move Side"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup9",
+			"Name": "Hair Move Back"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "‎"
+		},
+		{
+			"Id": "ParamEarringLoop",
+			"GroupId": "ParamGroup7",
+			"Name": "Earring Loop"
+		},
+		{
+			"Id": "ParamEarringLoopShadow",
+			"GroupId": "ParamGroup7",
+			"Name": "Earring Loop Shadow"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "‎"
+		},
+		{
+			"Id": "ParamEarringPhysic3",
+			"GroupId": "ParamGroup8",
+			"Name": "Earring Physic 3"
+		},
+		{
+			"Id": "ParamEarringPhysic2",
+			"GroupId": "ParamGroup8",
+			"Name": "Earring Physic 2"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup8",
+			"Name": "Pupil Physics"
+		},
+		{
+			"Id": "ParamEarringPhysic1",
+			"GroupId": "ParamGroup8",
+			"Name": "Earring Physic 1"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Face"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Eyes"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Eyeballs"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Eyebrows"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Body"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "Hair"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Toggles"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "Physics"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part245",
+			"Name": "Mouth_Teeths.psd"
+		},
+		{
+			"Id": "Part118",
+			"Name": "Mouth.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "Part",
+			"Name": "Staff - 21"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Transition Effect - 24"
+		},
+		{
+			"Id": "Part13",
+			"Name": "Merge - 661"
+		},
+		{
+			"Id": "Part116",
+			"Name": "Lower Mouth"
+		},
+		{
+			"Id": "Part117",
+			"Name": "Upper Mouth"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Staff Floating Part - 6"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Staff Top - 4"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Staff Top Bottom - 4"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Main Staff - 5"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Petal Effect - 6"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Particle Effect - 7"
+		},
+		{
+			"Id": "Part12",
+			"Name": "Shide - 11"
+		},
+		{
+			"Id": "Part14",
+			"Name": "Costume 2 TechWear Hand Tracking - 2"
+		},
+		{
+			"Id": "Part15",
+			"Name": "Costume 2 Hand Tracking- 68"
+		},
+		{
+			"Id": "Part40",
+			"Name": "Costume 1 Hand Tracking Outer - 2"
+		},
+		{
+			"Id": "Part41",
+			"Name": "Costume 1 Hand Tracking - 74"
+		},
+		{
+			"Id": "Part70",
+			"Name": "Float Toggles - 10"
+		},
+		{
+			"Id": "Part73",
+			"Name": "Hair-Bangs - 15"
+		},
+		{
+			"Id": "Part77",
+			"Name": "Bangs Shadow - 6"
+		},
+		{
+			"Id": "Part78",
+			"Name": "L Eyebrow - 2"
+		},
+		{
+			"Id": "Part79",
+			"Name": "R Eyebrow - 2"
+		},
+		{
+			"Id": "Part80",
+			"Name": "Cat Ears - 12"
+		},
+		{
+			"Id": "Part87",
+			"Name": "Hair Piece - 6"
+		},
+		{
+			"Id": "Part90",
+			"Name": "Glasses - 20"
+		},
+		{
+			"Id": "Part102",
+			"Name": "Nose - 2"
+		},
+		{
+			"Id": "Part103",
+			"Name": "Nose Line - 2"
+		},
+		{
+			"Id": "Part104",
+			"Name": "Toggles 2 - 13"
+		},
+		{
+			"Id": "Part111",
+			"Name": "Blush - 2"
+		},
+		{
+			"Id": "Part112",
+			"Name": "Toggles - 6"
+		},
+		{
+			"Id": "Part120",
+			"Name": "L Eye - 25"
+		},
+		{
+			"Id": "Part124",
+			"Name": "Mouth - 12"
+		},
+		{
+			"Id": "Part127",
+			"Name": "String 2 - 7"
+		},
+		{
+			"Id": "Part129",
+			"Name": "C2-Mic Hand - 2"
+		},
+		{
+			"Id": "Part130",
+			"Name": "C1-Mic Hand Front - 2"
+		},
+		{
+			"Id": "Part131",
+			"Name": "Mic - 14"
+		},
+		{
+			"Id": "Part134",
+			"Name": "C1-Mic Right Forearm - 2"
+		},
+		{
+			"Id": "Part135",
+			"Name": "Costume 2 Techwear - 3"
+		},
+		{
+			"Id": "Part137",
+			"Name": "Costume 2 Techwear - 27"
+		},
+		{
+			"Id": "Part146",
+			"Name": "Costume 2 Techwear -  25"
+		},
+		{
+			"Id": "Part155",
+			"Name": "C2-Mic Techwear Right Arm - 9"
+		},
+		{
+			"Id": "Part158",
+			"Name": "Costume 2 TechWear Hand Tracking - 18"
+		},
+		{
+			"Id": "Part165",
+			"Name": "Head - 16"
+		},
+		{
+			"Id": "Part169",
+			"Name": "Costume 2 Skirt - 6"
+		},
+		{
+			"Id": "Part171",
+			"Name": "Costume 2 - 4"
+		},
+		{
+			"Id": "Part173",
+			"Name": "C2-Mic Hand Shoulder - 2"
+		},
+		{
+			"Id": "Part174",
+			"Name": "Costume 2 Hand Tracking - 2"
+		},
+		{
+			"Id": "Part175",
+			"Name": "Costume 2 Arm - 28"
+		},
+		{
+			"Id": "Part188",
+			"Name": "Costume 2 Techwear - 4"
+		},
+		{
+			"Id": "Part189",
+			"Name": "Costume 1 - 10"
+		},
+		{
+			"Id": "Part192",
+			"Name": "Costume 1 - 45"
+		},
+		{
+			"Id": "Part206",
+			"Name": "Costume 1 - 56"
+		},
+		{
+			"Id": "Neck2",
+			"Name": "Neck - 4"
+		},
+		{
+			"Id": "Part225",
+			"Name": "Costume 2 - 32"
+		},
+		{
+			"Id": "Part237",
+			"Name": "Costume 1 - 11"
+		},
+		{
+			"Id": "Part242",
+			"Name": "Side-Hair - 4"
+		},
+		{
+			"Id": "Part243",
+			"Name": "Long Hair - 6"
+		},
+		{
+			"Id": "Part244",
+			"Name": "Scalp - 4"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Staff Floating Part 3"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Staff Floating Part 2"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Staff Floating Part 1"
+		},
+		{
+			"Id": "Part16",
+			"Name": "Costume 2 HT L Hand - 33"
+		},
+		{
+			"Id": "Part28",
+			"Name": "Costume 2 HT R Hand - 33"
+		},
+		{
+			"Id": "Part42",
+			"Name": "Costume 1 HT L Hand - 36"
+		},
+		{
+			"Id": "Part56",
+			"Name": "Costume 1 HT R Hand - 36"
+		},
+		{
+			"Id": "Part71",
+			"Name": "Floating Hearts - 4"
+		},
+		{
+			"Id": "Part72",
+			"Name": "Star Eyes - 4"
+		},
+		{
+			"Id": "Part74",
+			"Name": "Bang 1 - 3"
+		},
+		{
+			"Id": "Part75",
+			"Name": "Bang 2 - 2"
+		},
+		{
+			"Id": "Part76",
+			"Name": "Bang 3 - 2"
+		},
+		{
+			"Id": "Part81",
+			"Name": "Cat Ears L - 6"
+		},
+		{
+			"Id": "Part84",
+			"Name": "Cat Ears R - 6"
+		},
+		{
+			"Id": "Part88",
+			"Name": "Hair Piece L - 3"
+		},
+		{
+			"Id": "Part89",
+			"Name": "Hair Piece R - 3"
+		},
+		{
+			"Id": "Part91",
+			"Name": "L Glass - 9"
+		},
+		{
+			"Id": "Part96",
+			"Name": "R Glass - 9"
+		},
+		{
+			"Id": "Part101",
+			"Name": "Glasses Nose Bridge - 2"
+		},
+		{
+			"Id": "Part105",
+			"Name": "Circle Eyes - 2"
+		},
+		{
+			"Id": "Part106",
+			"Name": "Tears - 4"
+		},
+		{
+			"Id": "Part109",
+			"Name": "Yandere - 3"
+		},
+		{
+			"Id": "Part110",
+			"Name": "Confused - 2"
+		},
+		{
+			"Id": "Part113",
+			"Name": "Star Eyes - 2"
+		},
+		{
+			"Id": "Part114",
+			"Name": "L Heart Eyes - 2"
+		},
+		{
+			"Id": "Part115",
+			"Name": "R Heart Eyes - 2"
+		},
+		{
+			"Id": "Part121",
+			"Name": "R Highlight - 4"
+		},
+		{
+			"Id": "Part122",
+			"Name": "R  Iris - 2"
+		},
+		{
+			"Id": "Part123",
+			"Name": "R Sclera - 2"
+		},
+		{
+			"Id": "Part125",
+			"Name": "Upper Mouth - 2"
+		},
+		{
+			"Id": "Part126",
+			"Name": "Lower Mouth - 2"
+		},
+		{
+			"Id": "Part119",
+			"Name": "Back Uper Teeth"
+		},
+		{
+			"Id": "Part224",
+			"Name": "Back Lower Teeth"
+		},
+		{
+			"Id": "Part128",
+			"Name": "Outer Ring 2 - 2"
+		},
+		{
+			"Id": "Part132",
+			"Name": "Mic - Petals - 4"
+		},
+		{
+			"Id": "Part133",
+			"Name": "Mic Circles - 4"
+		},
+		{
+			"Id": "Part136",
+			"Name": "C2-Techwear Belt Right - 2"
+		},
+		{
+			"Id": "Part138",
+			"Name": "C2-Techwear Left Flap Front 1 - 6"
+		},
+		{
+			"Id": "Part140",
+			"Name": "C2-Techwear Left Main - 3"
+		},
+		{
+			"Id": "Part141",
+			"Name": "C2-Techwear Left Main End - 3"
+		},
+		{
+			"Id": "Part142",
+			"Name": "C2-Techwear Left Arm - 14"
+		},
+		{
+			"Id": "Part147",
+			"Name": "C2-Techwear Right Flap - 6"
+		},
+		{
+			"Id": "Part149",
+			"Name": "C2-Techwear Right Main - 2"
+		},
+		{
+			"Id": "Part150",
+			"Name": "C2-Techwear Right Main End - 3"
+		},
+		{
+			"Id": "Part151",
+			"Name": "C2-Techwear Right Arm  -14"
+		},
+		{
+			"Id": "Part156",
+			"Name": "C2-Mic Techwear Right Arm - 2"
+		},
+		{
+			"Id": "Part157",
+			"Name": "C2-Mic Techwear Right Arm Strings - 6"
+		},
+		{
+			"Id": "Part159",
+			"Name": "C2-Techwear HT Right Arm - 9"
+		},
+		{
+			"Id": "Part162",
+			"Name": "C2-Techwear HT Left Arm - 9"
+		},
+		{
+			"Id": "Part166",
+			"Name": "Face - 4"
+		},
+		{
+			"Id": "Part167",
+			"Name": "Earring - 9"
+		},
+		{
+			"Id": "Part170",
+			"Name": "C2-Skirt String - 3"
+		},
+		{
+			"Id": "Part172",
+			"Name": "C2-Jacket Breast - 3"
+		},
+		{
+			"Id": "Part176",
+			"Name": "C2-Left Arm - 14"
+		},
+		{
+			"Id": "Part182",
+			"Name": "C2-Right Arm - 14"
+		},
+		{
+			"Id": "Part190",
+			"Name": "H2-Right - 8"
+		},
+		{
+			"Id": "Part193",
+			"Name": "String 1 - 7"
+		},
+		{
+			"Id": "Part195",
+			"Name": "Outer Main - 6"
+		},
+		{
+			"Id": "Part197",
+			"Name": "H3-Hand - 8"
+		},
+		{
+			"Id": "Part198",
+			"Name": "Inner-Second - 2"
+		},
+		{
+			"Id": "Part199",
+			"Name": "Inner-First - 2"
+		},
+		{
+			"Id": "Part200",
+			"Name": "Outer L - 2"
+		},
+		{
+			"Id": "Part201",
+			"Name": "H1-Outer R - 2"
+		},
+		{
+			"Id": "Part202",
+			"Name": "C1- Hand Tracking Outer Front - 2"
+		},
+		{
+			"Id": "Part203",
+			"Name": "Skirt - 2"
+		},
+		{
+			"Id": "Part204",
+			"Name": "Belly - 2"
+		},
+		{
+			"Id": "Part205",
+			"Name": "H4-Outer Front - 2"
+		},
+		{
+			"Id": "Part207",
+			"Name": "C1- Hand Tracking - 2"
+		},
+		{
+			"Id": "Part208",
+			"Name": "C1- Hand Tracking Outer Back - 2"
+		},
+		{
+			"Id": "Part209",
+			"Name": "H4-Arm - 11"
+		},
+		{
+			"Id": "Part212",
+			"Name": "H4-Outer Outer - 2"
+		},
+		{
+			"Id": "Part213",
+			"Name": "H3-Arm - 3"
+		},
+		{
+			"Id": "Part214",
+			"Name": "H2-Right - 2"
+		},
+		{
+			"Id": "Part215",
+			"Name": "Left Arm - 11"
+		},
+		{
+			"Id": "Part218",
+			"Name": "Outer L Back - 2"
+		},
+		{
+			"Id": "Part219",
+			"Name": "H1-Right - 10"
+		},
+		{
+			"Id": "Part221",
+			"Name": "H1-Outer R Back - 2"
+		},
+		{
+			"Id": "Part222",
+			"Name": "Thigh L - 2"
+		},
+		{
+			"Id": "Part223",
+			"Name": "Thigh R - 2"
+		},
+		{
+			"Id": "Part226",
+			"Name": "C2-Left Petal - 2"
+		},
+		{
+			"Id": "Part227",
+			"Name": "C2-Right Petal - 2"
+		},
+		{
+			"Id": "Part228",
+			"Name": "C2-Left Shoe Front - 4"
+		},
+		{
+			"Id": "Part229",
+			"Name": "C2-Right Shoe Front - 4"
+		},
+		{
+			"Id": "Part230",
+			"Name": "C2-Left Leg - 4"
+		},
+		{
+			"Id": "Part232",
+			"Name": "C2-Right Leg - 9"
+		},
+		{
+			"Id": "Part234",
+			"Name": "Jacket Hood Back - 3"
+		},
+		{
+			"Id": "Part235",
+			"Name": "C2-Left Shoe Back - 2"
+		},
+		{
+			"Id": "Part236",
+			"Name": "C2-Right Shoe Back - 2"
+		},
+		{
+			"Id": "Part238",
+			"Name": "L Cape - 5"
+		},
+		{
+			"Id": "Part240",
+			"Name": "R Cape - 5"
+		},
+		{
+			"Id": "Part17",
+			"Name": "Costume 2 HT L Pinky - 6"
+		},
+		{
+			"Id": "Part19",
+			"Name": "Costume 2 HT L Ring - 6"
+		},
+		{
+			"Id": "Part21",
+			"Name": "Costume 2 HT L Middle - 6"
+		},
+		{
+			"Id": "Part23",
+			"Name": "Costume 2 HT L Index - 6"
+		},
+		{
+			"Id": "Part25",
+			"Name": "Costume 2 HT L Thumb - 6"
+		},
+		{
+			"Id": "Part27",
+			"Name": "Costume 2 HT L Palm - 3"
+		},
+		{
+			"Id": "Part29",
+			"Name": "Costume 2 HT R Pinky - 6"
+		},
+		{
+			"Id": "Part31",
+			"Name": "Costume 2 HT R Ring - 6"
+		},
+		{
+			"Id": "Part33",
+			"Name": "Costume 2 HT R Middle - 6"
+		},
+		{
+			"Id": "Part35",
+			"Name": "Costume 2 HT R Index - 6"
+		},
+		{
+			"Id": "Part37",
+			"Name": "Costume 2 HT R Thumb - 6"
+		},
+		{
+			"Id": "Part39",
+			"Name": "Costume 2 HT R Palm - 3"
+		},
+		{
+			"Id": "Part43",
+			"Name": "Costume 1 HT L Pinky - 6"
+		},
+		{
+			"Id": "Part45",
+			"Name": "Costume 1 HT L Ring - 6"
+		},
+		{
+			"Id": "Part47",
+			"Name": "Costume 1 HT L Middle - 6"
+		},
+		{
+			"Id": "Part49",
+			"Name": "Costume 1 HT L Index - 6"
+		},
+		{
+			"Id": "Part51",
+			"Name": "Costume 1 HT L Thumb Gold Part Front - 4"
+		},
+		{
+			"Id": "Part53",
+			"Name": "Costume 1 HT L Thumb - 6"
+		},
+		{
+			"Id": "Part55",
+			"Name": "Costume 1 HT L Palm - 2"
+		},
+		{
+			"Id": "Part57",
+			"Name": "Costume 1 HT R Pinky - 6"
+		},
+		{
+			"Id": "Part59",
+			"Name": "Costume 1 HT R Ring - 6"
+		},
+		{
+			"Id": "Part61",
+			"Name": "Costume 1 HT R Middle - 6"
+		},
+		{
+			"Id": "Part63",
+			"Name": "Costume 1 HT R Index - 6"
+		},
+		{
+			"Id": "Part65",
+			"Name": "Costume 1 HT R Thumb Gold Part Fron - 4"
+		},
+		{
+			"Id": "Part67",
+			"Name": "Costume 1 HT R Thumb - 6"
+		},
+		{
+			"Id": "Part69",
+			"Name": "Costume 1 HT R Palm - 2"
+		},
+		{
+			"Id": "Part82",
+			"Name": "Cat Ears Fur L - 2"
+		},
+		{
+			"Id": "Part83",
+			"Name": "Cat Ears Back L - 3"
+		},
+		{
+			"Id": "Part85",
+			"Name": "Cat Ears Fur R - 2"
+		},
+		{
+			"Id": "Part86",
+			"Name": "Cat Ears Back R - 3"
+		},
+		{
+			"Id": "Part92",
+			"Name": "L Glasses Frame - 2"
+		},
+		{
+			"Id": "Part93",
+			"Name": "L Glasses Lense - 3"
+		},
+		{
+			"Id": "Part94",
+			"Name": "L Glasses Leg 2"
+		},
+		{
+			"Id": "Part95",
+			"Name": "L Glasses Nose Frame - 2"
+		},
+		{
+			"Id": "Part97",
+			"Name": "R Glasses Frame - 2"
+		},
+		{
+			"Id": "Part98",
+			"Name": "R Glasses Lense - 3"
+		},
+		{
+			"Id": "Part99",
+			"Name": "R Glasses Nose Frame - 2"
+		},
+		{
+			"Id": "Part100",
+			"Name": "R Glasses Leg - 2"
+		},
+		{
+			"Id": "Part107",
+			"Name": "L Tear - 2"
+		},
+		{
+			"Id": "Part108",
+			"Name": "R Tear - 2"
+		},
+		{
+			"Id": "Part139",
+			"Name": "C2-Techwear Left Flap Front 2 - 2"
+		},
+		{
+			"Id": "Part143",
+			"Name": "C2-Techwear Left Shoulder - 2"
+		},
+		{
+			"Id": "Part144",
+			"Name": "C2-Techwear Left Bow - 5"
+		},
+		{
+			"Id": "Part145",
+			"Name": "C2-Techwear Left Arm String - 6"
+		},
+		{
+			"Id": "Part148",
+			"Name": "C2-Techwear Right Flap 2 Front - 2"
+		},
+		{
+			"Id": "Part152",
+			"Name": "C2-Techwear Right Shoulder - 2"
+		},
+		{
+			"Id": "Part153",
+			"Name": "C2-Techwear Right Bow - 5"
+		},
+		{
+			"Id": "Part154",
+			"Name": "C2-Techwear Right Arm Strings - 6"
+		},
+		{
+			"Id": "Part160",
+			"Name": "C2-TechWear HT Right Arm - 2"
+		},
+		{
+			"Id": "Part161",
+			"Name": "C2-Techwear HT Right Arm Strings - 6"
+		},
+		{
+			"Id": "Part163",
+			"Name": "C2-Techwear HT Left Shoulder - 2"
+		},
+		{
+			"Id": "Part164",
+			"Name": "C2-Techwear HT Left Arm Strings - 6"
+		},
+		{
+			"Id": "Part168",
+			"Name": "Earring - 6"
+		},
+		{
+			"Id": "Part177",
+			"Name": "C2-Left Shoulder - 2"
+		},
+		{
+			"Id": "Part178",
+			"Name": "C2-Left Hand - 10"
+		},
+		{
+			"Id": "Part183",
+			"Name": "C2-Right Shoulder - 2"
+		},
+		{
+			"Id": "Part184",
+			"Name": "C2-Right Hand - 10"
+		},
+		{
+			"Id": "Part191",
+			"Name": "H2-Arm - 7"
+		},
+		{
+			"Id": "Part194",
+			"Name": "Outer Ring 1 - 2"
+		},
+		{
+			"Id": "Part196",
+			"Name": "Outer Shoulder Guard - 4"
+		},
+		{
+			"Id": "Part210",
+			"Name": "H4-R Hand - 8"
+		},
+		{
+			"Id": "Part216",
+			"Name": "H1-L Hand - 8"
+		},
+		{
+			"Id": "Part220",
+			"Name": "H1-R Hand - 7"
+		},
+		{
+			"Id": "Part231",
+			"Name": "C2-Left Thigh - 2"
+		},
+		{
+			"Id": "Part233",
+			"Name": "C2-Right Thigh - 7"
+		},
+		{
+			"Id": "Part239",
+			"Name": "L Bead - 2"
+		},
+		{
+			"Id": "Part241",
+			"Name": "R Bead - 2"
+		},
+		{
+			"Id": "Part18",
+			"Name": "Costume 2 HT L Pinky Black"
+		},
+		{
+			"Id": "Part20",
+			"Name": "Costume 2 HT L Ring Black"
+		},
+		{
+			"Id": "Part22",
+			"Name": "Costume 2 HT L Middle Black"
+		},
+		{
+			"Id": "Part24",
+			"Name": "Costume 2 HT L Index Black"
+		},
+		{
+			"Id": "Part26",
+			"Name": "Costume 2 HT L Thumb Black"
+		},
+		{
+			"Id": "Part30",
+			"Name": "Costume 2 HT R Pinky Black"
+		},
+		{
+			"Id": "Part32",
+			"Name": "Costume 2 HT R Ring Black"
+		},
+		{
+			"Id": "Part34",
+			"Name": "Costume 2 HT R Middle Black"
+		},
+		{
+			"Id": "Part36",
+			"Name": "Costume 2 HT R Index Black"
+		},
+		{
+			"Id": "Part38",
+			"Name": "Costume 2 HT R Thumb Black"
+		},
+		{
+			"Id": "Part44",
+			"Name": "Costume 1 HT L Pinky Black"
+		},
+		{
+			"Id": "Part46",
+			"Name": "Costume 1 HT L Ring Black"
+		},
+		{
+			"Id": "Part48",
+			"Name": "Costume 1 HT L Middle Black"
+		},
+		{
+			"Id": "Part50",
+			"Name": "Costume 1 HT L Index Black"
+		},
+		{
+			"Id": "Part52",
+			"Name": "Costume 1 HT L Thumb Gold Part Front　Black"
+		},
+		{
+			"Id": "Part54",
+			"Name": "Costume 1 HT L Thumb Black"
+		},
+		{
+			"Id": "Part58",
+			"Name": "Costume 1 HT R Pinky Black"
+		},
+		{
+			"Id": "Part60",
+			"Name": "Costume 1 HT R Ring  Black"
+		},
+		{
+			"Id": "Part62",
+			"Name": "Costume 1 HT R Middle Black"
+		},
+		{
+			"Id": "Part64",
+			"Name": "Costume 1 HT R Index Black"
+		},
+		{
+			"Id": "Part66",
+			"Name": "Costume 1 HT R Thumb Gold Part Front Black"
+		},
+		{
+			"Id": "Part68",
+			"Name": "Costume 1 HT R Thumb Black"
+		},
+		{
+			"Id": "Part179",
+			"Name": "C2-Left Hand Middle - 2"
+		},
+		{
+			"Id": "Part180",
+			"Name": "C2-Left Hand Ring - 3"
+		},
+		{
+			"Id": "Part181",
+			"Name": "C2-Left Hand Pinky - 2"
+		},
+		{
+			"Id": "Part185",
+			"Name": "C2-Right Hand Middle - 2"
+		},
+		{
+			"Id": "Part186",
+			"Name": "C2-Right Hand Ring - 3"
+		},
+		{
+			"Id": "Part187",
+			"Name": "C2-Right Hand Pinky - 2"
+		},
+		{
+			"Id": "Part211",
+			"Name": "H4-R Thumb - 3"
+		},
+		{
+			"Id": "Part217",
+			"Name": "H1-L Thumb - 3"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}

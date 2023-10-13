@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Rayda VTuber Model 2.2.moc3",
+		"Textures": [
+			"Rayda VTuber Model 2.2.2048/texture_00.png"
+		],
+		"Physics": "Rayda VTuber Model 2.2.physics3.json",
+		"DisplayInfo": "Rayda VTuber Model 2.2.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

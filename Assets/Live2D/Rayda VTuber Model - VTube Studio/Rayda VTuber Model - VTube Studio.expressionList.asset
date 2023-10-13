@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f401bb1c5c52514eba33c0c2ffdc8ff, type: 3}
+  m_Name: Rayda VTuber Model - VTube Studio.expressionList
+  m_EditorClassIdentifier: 
+  CubismExpressionObjects:
+  - {fileID: 11400000, guid: 98b082dfdd05d294d8bcd0ad8f402307, type: 2}
+  - {fileID: 11400000, guid: 727f8e71d45c8114a9cd63a9203ebf96, type: 2}
+  - {fileID: 11400000, guid: cb4b3a8cc6699494395662492f423849, type: 2}
+  - {fileID: 11400000, guid: 7dc8862c18903f741b64e48609cfb3fa, type: 2}
+  - {fileID: 11400000, guid: 62eadae706e16dc469df053a6cf9f239, type: 2}
+  - {fileID: 11400000, guid: 0cfcd583f30a48e489cb39ee1c6868cf, type: 2}
+  - {fileID: 11400000, guid: a22d597ad3e96174ca03385135821ec6, type: 2}

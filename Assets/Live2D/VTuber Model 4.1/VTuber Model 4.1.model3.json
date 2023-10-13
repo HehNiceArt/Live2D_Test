@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "VTuber Model 4.1.moc3",
+		"Textures": [
+			"VTuber Model 4.1.4096/texture_00.png"
+		],
+		"Physics": "VTuber Model 4.1.physics3.json",
+		"DisplayInfo": "VTuber Model 4.1.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

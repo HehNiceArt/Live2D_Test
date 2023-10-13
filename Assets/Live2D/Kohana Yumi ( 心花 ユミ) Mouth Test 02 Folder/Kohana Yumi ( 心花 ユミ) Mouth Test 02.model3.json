@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Kohana Yumi ( 心花 ユミ) Mouth Test 02.moc3",
+		"Textures": [
+			"Kohana Yumi ( 心花 ユミ) Mouth Test 02.4096/texture_00.png"
+		],
+		"Physics": "Kohana Yumi ( 心花 ユミ) Mouth Test 02.physics3.json",
+		"DisplayInfo": "Kohana Yumi ( 心花 ユミ) Mouth Test 02.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
